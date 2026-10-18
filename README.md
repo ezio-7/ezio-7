@@ -1,6 +1,6 @@
 ### Hi, I'm Ayush 👋
 
-Backend engineer working on a healthcare data platform that processes **1,000+ files a day** for multiple US health plans: Python services, Java / Spring Boot orchestration, and SQL that stays fast at tens of millions of rows.
+Backend engineer working on a healthcare data platform. Python services, Java / Spring Boot orchestration, and SQL that stays fast at tens of millions of rows.
 
 - 🔎 **Portfolio, case studies and architecture diagrams:** [ezio-7.github.io/portfolio](https://ezio-7.github.io/portfolio/?ref=github)
 - 💼 Currently: SDE at HiLabs · open to SDE-2 backend roles
